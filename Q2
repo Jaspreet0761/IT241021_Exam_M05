@@ -1,0 +1,21 @@
+Q2
+Case Study: Configuring Windows 11 Notepad to Prompt Users to Save Files on Close
+
+Background Information:
+
+Issue Reported: Users are not being prompted to save files when closing Notepad in Windows 11 if there are unsaved changes.
+
+Priority Level: Medium (Enhancement Request)
+
+Q2A
+A: Do some research on what questions you should ask to make the problem clear.
+Remember the question should be specific to the topics above.
+
+Create a file with the URL of the site you looked at and the questions that you should ask the end user.
+Commit it.
+
+A2A
+I noticed in Win11 that Notepad no longer prompts you to save changes on exit. Is this behavior happening for others and is it by design?
+If it's by design, what is the idea behind not at least asking you if you want to save a change? 
+
+[link](https://news.ycombinator.com/item?id=42020342)
