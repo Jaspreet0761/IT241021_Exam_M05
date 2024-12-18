@@ -45,4 +45,4 @@ Missing that one ‘+’ sign in your formula or dragging your pointer two cells
 
 Q1D Create two issues on your repository suggest what other thing you might have to investigate as result of you research
 
-A1D 
+A1D [link](https://github.com/Jaspreet0761/IT241021_Exam_M05/issues/1)
