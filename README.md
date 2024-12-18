@@ -1,5 +1,5 @@
 # IT241021_Exam_M05
-Q1 Question 1
+Q1 
 
 Support Case: Formulas Not Calculating
 
@@ -15,22 +15,27 @@ Q1A
 Do some research on what questions you should ask to make the problem clear.
 Create a file with the URL of the site you looked at and the questions that you should ask the end user.                      Commit it.
 
-A1A  [lINK](https://chandoo.org/wp/excel-formulas-are-not-working/)
+A1A
+[lINK](https://chandoo.org/wp/excel-formulas-are-not-working/)
 
-Q1B  Find a  few sites with basic Excel spreadsheet    troubleshooting.
+Q1B 
+Find a  few sites with basic Excel spreadsheet    troubleshooting.
        What is a common excel troubleshooting technique.
        Create a  file with this info.    Commit it.
 
-A1B [LINK](https://www.goskills.com/Excel/Resources/Excel-errors)
+A1B
+[LINK](https://www.goskills.com/Excel/Resources/Excel-errors)
 
 [link](https://www.teampay.co/blog/biggest-excel-mistakes-of-all-time)
 
 
-Q1C  Find a few sites with troubleshooting  a list of very common Excel mistakes.
+Q1C 
+Find a few sites with troubleshooting  a list of very common Excel mistakes.
          Describe the most common mistake people make in excel 
 .        Create the file and Commit it.
 
-A1C Most common mistakes people make in excel.
+A1C
+Most common mistakes people make in excel.
 E-mailing your workbook to colleagues and trying to fish out that one true version from the dozens of copies at the end of the day, each with their own “subtle” changes.
 
 Accidentally deleting a cell, column, or a whole sheet and imploring your system administrator to retrieve it for you.
@@ -43,6 +48,8 @@ Missing that one ‘+’ sign in your formula or dragging your pointer two cells
 
 [link](https://www.teampay.co/blog/biggest-excel-mistakes-of-all-time)
 
-Q1D Create two issues on your repository suggest what other thing you might have to investigate as result of you research
+Q1D 
+Create two issues on your repository suggest what other thing you might have to investigate as result of you research
 
-A1D [link](https://github.com/Jaspreet0761/IT241021_Exam_M05/issues/1)
+A1D 
+[link](https://github.com/Jaspreet0761/IT241021_Exam_M05/issues/1)
